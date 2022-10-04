@@ -1,0 +1,18 @@
+.board{
+    background-image: url("board.png");
+    width: 744px;
+    height: 783px;
+}
+.spot{
+    width: 30%;
+    height: 30%;
+    margin: 11px;
+    float: left;
+    
+    
+}
+.piece{
+    width: max-content;
+    height: max-content;
+    position: relative;
+}
